@@ -8,7 +8,8 @@ timmy_the_turtle.color("blue","green")
 timmy_the_turtle.position()
 colours=["CornflowerBlue","Black","red","green","yellow","pink",'SeaGreen']
 directions=[0,90,180,270]
-
+timmy_the_turtle.pensize(15)
+timmy_the_turtle.speed(0)
 
 is_true=True
 while is_true:
