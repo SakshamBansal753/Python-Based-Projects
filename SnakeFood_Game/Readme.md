@@ -1,1 +1,1 @@
-THis game is developed using pyhton
+THis game is developed using python
