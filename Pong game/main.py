@@ -8,6 +8,21 @@ screen.bgcolor("black")
 screen.title("Pong Game")
 screen.setup(width=800,height=600)
 screen.tracer(0)
+tim=Turtle()
+tim.color("white")
+x_pos=0
+y_pos=-300
+tim.penup()
+tim.hideturtle()
+tim.goto(x_pos, y_pos)
+tim.setheading(90)
+for _ in range(30): 
+    tim.pendown()
+    tim.forward(10)
+    tim.penup()
+    tim.forward(10)
+
+
 r_paddle=Paddle((350,0))
 l_paddle=Paddle((-350,0))
 ball=Ball()
