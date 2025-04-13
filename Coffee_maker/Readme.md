@@ -27,7 +27,7 @@ This is a simple command-line-based coffee machine simulator written in Python. 
 1. Make sure Python 3 is installed.
 2. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/coffee-machine.git
-   cd coffee-machine
+   git clone [https://github.com/yourusername/coffee-machine.git
+   cd coffee-machine](https://github.com/SakshamBansal753/Python-Based-Projects.git)
 Thank You Happy Coding 👋😊
 <img src="https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?cs=srgb&dl=pexels-chevanon-312418.jpg&fm=jpg"/>
