@@ -1,5 +1,5 @@
 # ☕ Coffee Machine CLI App
-
+👋😊Hello There Young Guns I am Saksham Bansal .
 This is a simple command-line-based coffee machine simulator written in Python. It lets you select drinks, check resources, and simulate inserting coins.
 
 ---
@@ -29,4 +29,5 @@ This is a simple command-line-based coffee machine simulator written in Python. 
    ```bash
    git clone https://github.com/yourusername/coffee-machine.git
    cd coffee-machine
+Thank You Happy Coding 👋😊
 <img src="https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?cs=srgb&dl=pexels-chevanon-312418.jpg&fm=jpg"/>
