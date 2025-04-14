@@ -43,28 +43,28 @@ python main.py
 ```bash
 https://github.com/SakshamBansal753/Python-Based-Projects.git
 ```
+<br>
+📦 Files Overview<br>
+|File	      |     Description                        |<br>
+|main.py	  |  Game runner and click handling logic  |<br>
+|Board.py	  |  Draws the game grid using Turtle      |<br>
+|move.py	  |   Manages moves and win checking logic |<br>
+<br>
 
-📦 Files Overview
-File	        Description
-main.py	    Game runner and click handling logic
-Board.py	  Draws the game grid using Turtle
-move.py	     Manages moves and win checking logic
 
-**Keep building. Keep coding ,Happy Coding.**
-**– Saksham Bansal**
+# Keep building. Keep coding ,Happy Coding.<br>#– Saksham Bansal
+<br>
 
-**📬 Contact Me**
+# 📬 Contact Me
 Feel free to connect or drop a message if you want to collaborate or share feedback!
 
-GitHub: https://github.com/SakshamBansal753
-LINKEDIN:https://www.linkedin.com/in/saksham-bansal-58123333a/
-**📸 Preview**
-<img src="https://github.com/SakshamBansal753/Python-Based-Projects/blob/main/TIC%20TAC%20TOE/TIC%20TAC%20TOE%20GAME.png"/>
-<div style={display:flex;}>
-  <div>
-<img src="https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU"/>
-  </div>
-  <div>
-    <img src="https://play-lh.googleusercontent.com/5ENdgpFsRhQt9y_ySp9UK_p-CL0TmhSwW5pKmmzzIW0OLFR3EvAtzAGm6c_IkkfgVg"/>
-  </div>
+**GitHub**: https://github.com/SakshamBansal753<br>
+**LINKEDIN**:https://www.linkedin.com/in/saksham-bansal-58123333a/
+
+# 📸 Preview
+<br>
+<div>
+<img src="https://github.com/SakshamBansal753/Python-Based-Projects/blob/main/TIC%20TAC%20TOE/TIC%20TAC%20TOE%20GAME.png" width="900"/>
+<img src="https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU" width="450"/>
+<img src="https://play-lh.googleusercontent.com/5ENdgpFsRhQt9y_ySp9UK_p-CL0TmhSwW5pKmmzzIW0OLFR3EvAtzAGm6c_IkkfgVg" width="450"/>
 </div>
