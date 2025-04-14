@@ -60,4 +60,11 @@ GitHub: https://github.com/SakshamBansal753
 LINKEDIN:https://www.linkedin.com/in/saksham-bansal-58123333a/
 **📸 Preview**
 <img src="https://github.com/SakshamBansal753/Python-Based-Projects/blob/main/TIC%20TAC%20TOE/TIC%20TAC%20TOE%20GAME.png"/>
+<div style={display:flex;}>
+  <div>
 <img src="https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU"/>
+  </div>
+  <div>
+    <img src="https://play-lh.googleusercontent.com/5ENdgpFsRhQt9y_ySp9UK_p-CL0TmhSwW5pKmmzzIW0OLFR3EvAtzAGm6c_IkkfgVg"/>
+  </div>
+</div>
