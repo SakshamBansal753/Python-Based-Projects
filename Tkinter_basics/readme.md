@@ -31,7 +31,7 @@ window.minsize(width=600,height=600)
 #Label
 my_label=Label(text="I am A Label",font=("Arial",24,"bold"))
 
-my_label.pack()
+my_label.place(x=0,y=0)
 
 def button_click():
     my_label.config(text=f"{input.get()}")
@@ -93,6 +93,38 @@ listbox.bind("<<ListboxSelect>>",list_s)
 listbox.pack()
 
 button.config(command=button_click)
+
+window.mainloop()
+```
+
+**ANd**
+```python
+from tkinter import *
+
+window=Tk()
+window.title("My First GUI Program")
+window.minsize(width=600,height=600)
+window.config(padx=90,pady=90)
+
+
+#Label
+my_label=Label(text="I am A Label",font=("Arial",24,"bold"))
+my_label.config(pady=50,padx=50)
+my_label.grid(column=0,row=0)
+
+def button_click():
+    my_label.config(text=f"{input.get()}")
+#Buttons
+button=Button(text="Hello I am button")
+button.grid(column=2,row=0)
+button=Button(text="Hello I am button")
+button.grid(column=1,row=1)
+
+#Entry
+#You Cant use pack with grid
+input=Entry(width=10)
+input.insert(END,"Email")
+input.grid(column=3,row=3)
 
 window.mainloop()
 ```
