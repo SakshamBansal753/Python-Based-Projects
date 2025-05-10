@@ -35,3 +35,4 @@ OpenWeatherMap API
 ---
 # Happy Coding 😄
 # 📸 Preview
+<img src="https://github.com/SakshamBansal753/Python-Based-Projects/blob/main/weatherFinder/weather.png"/>
