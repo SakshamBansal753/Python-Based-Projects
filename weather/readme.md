@@ -14,7 +14,6 @@ I am Saksham, and this is my Weather Alert System project that fetches the weath
 
 Before running the project, make sure you have the following:
 
-- Python 3.x installed on your machine.
 - A valid OpenWeather API Key (you can sign up for free [here](https://openweathermap.org/)).
 - A Twilio Account SID and Auth Token (sign up [here](https://www.twilio.com/)).
 - A Twilio phone number for sending SMS.
