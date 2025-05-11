@@ -28,6 +28,7 @@ python
 Copy code
 from datetime import datetime
 today = datetime.now().strftime("%Y%m%d")
-```
-
-# 📸Priview
+````
+## TO see the page i shared screenshot with you go to [https://pixe.la/v1/users/{YOUR_USERNAME}/graphs/{YOUR_GRAPH_ID}.html]
+# 📸Preview
+<img src="https://github.com/SakshamBansal753/Python-Based-Projects/blob/main/daily%20hobby%20checker/Screenshot%202025-05-11%20115403.png"/>
