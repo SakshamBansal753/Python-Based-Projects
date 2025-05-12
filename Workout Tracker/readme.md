@@ -1,4 +1,4 @@
-# Hello Young Guns! I am Saksham 💪
+# Hello Young Guns! I am Saksham 
 
 This project is a simple Python script that helps you **log your daily workouts** using the **Nutritionix API** to analyze exercises and the **Sheety API** to record them in a Google Sheet.
 
@@ -34,5 +34,8 @@ This project is a simple Python script that helps you **log your daily workouts*
 ```
 
 # 📷Preview
-<img src="
+<img src="https://github.com/SakshamBansal753/Python-Based-Projects/blob/main/Workout%20Tracker/result.png"/>
+<img src="https://github.com/SakshamBansal753/Python-Based-Projects/blob/main/Workout%20Tracker/work.png"/>
+
+
 # Happy Coding 🚀
