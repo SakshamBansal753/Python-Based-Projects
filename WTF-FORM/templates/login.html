@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Login</title>
+		    <script src="https://cdn.tailwindcss.com"></script>
+	</head>
+	<body>
+        <div class="text-2xl">
+		<h1>Login</h1>
+       <form method="post" action="{{url_for('login')}}">
+		   {{form.csrf_token}}
+		   <p>
+		   {{form.email.label}}<br> {{form.email(size=30,placeholder="Enter Email",class_="bg-gray-100")}}
+		   </p>
+		   <p>
+
+		   {{form.password.label}}<br> {{form.password(size=30,placeholder="Enter password",class_="border border-black")}}
+		   </p>
+		   {{form.submit(class_="border border-black bg-blue-300  p-2")}}
+	   </form>
+        </div>
+	</body>
+</html>
