@@ -66,6 +66,15 @@ To make things easier to explore, I’ve organized the projects across **two sep
 -The folders are neatly organized to help you find what you're looking for quickly:
  find something valuable and inspiring here.
 
+## All Documentation
+
+ - <a href="https://pandas.pydata.org/docs/">Panda</a>
+ - <a href="https://docs.python.org/3/library/tk.html">Tkinter</a>
+ - <a href="https://flask.palletsprojects.com/en/stable/">FLask</a>
+ - <a href="https://docs.python.org/3/library/turtle.html">Turtle</a>
+ - <a href="https://www.selenium.dev/documentation/">Selenium</a>
+ - <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a>
+ - <a href="https://jinja.palletsprojects.com/en/stable/">Jinja</a>
 ---
 
 Feel free to **explore the branches**, check out the code, and don't hesitate to leave feedback or connect!
