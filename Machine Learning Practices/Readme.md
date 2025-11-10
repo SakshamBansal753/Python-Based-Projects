@@ -1,6 +1,6 @@
 # 🚀 Machine Learning with Python
 
-Welcome to this repository!  
+Welcomee to this repository!  
 This repo is dedicated to uploading **machine learning content** built with **Python**.  
 You'll find code snippets, basic ML models, and experiments that can help beginners get started on their ML journey.
 
