@@ -4,7 +4,7 @@
 ******Hello I am Saksham Bansal Here I have created a vast range of projects from a beginner level to adbvanced level that you all love it ❤******<br>
 ## 👋 Hello and Hi , I'm Saksham Bansal!
 
-Welcome to my GitHub! I'm a passionate developer with a strong interest in building real-world projects and continuously pushing the boundaries of what I can create with code.
+Welcome to my GitHub! I'm a passionate developer with a strong interest in building real-world projects and continuously pushing the boundaries of what I can create with code so.
 
 Over time, I’ve worked on a **wide variety of Python projects**, ranging from beginner-level scripts to more complex and advanced applications. These projects not only helped strengthen my understanding of programming fundamentals but also exposed me to real-world problem-solving, optimization, and software design.
 
